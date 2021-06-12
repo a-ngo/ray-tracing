@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/hitable.h
+ray.h
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/ray.h
+
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/hitable_list.h
+hitable.h
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/hitable.h
+
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/main.cpp
+iostream
+-
+sphere.h
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/sphere.h
+hitable_list.h
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/hitable_list.h
+float.h
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/float.h
+
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/ray.h
+vec3.h
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/vec3.h
+
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/sphere.h
+hitable.h
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/hitable.h
+
+/lhome/ngothan/workspace/sensor_simulation/lidar/raytracing/src/vec3.h
+math.h
+-
+stdlib.h
+-
+iostream
+-
+
